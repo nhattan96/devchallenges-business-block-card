@@ -57,10 +57,11 @@ body {
   font-size: var(--font-size);
   font-family: var(--body-font);
 
+  height: 100vh;
   align-items: center;
   display: flex;
   flex-direction: column;
-  margin: 50px;
+  justify-content: center;
 }
 
 /* Card */
